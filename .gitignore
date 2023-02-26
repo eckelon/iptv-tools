@@ -1,0 +1,6 @@
+zig-cache/
+zig-out/
+playlist.m3u8
+build/
+build-*/
+docgen_tmp/
